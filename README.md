@@ -1,1 +1,1 @@
-# yeoman-scaffolding
+# Yeoman Scaffolding
